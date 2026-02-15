@@ -1,0 +1,19 @@
+author:
+  name: Kim WonJoon
+  role: Software Engineer / 软件工程师
+  bio:  热爱编程的软件工程师，专注于 Java 与 Python 开发，喜欢探索技术可能性并构建有趣、实用的系统。
+  location: China,Nan Jing
+
+social:
+  - id: "x"
+    label: "X"
+    href: "#_"
+  - id: "github"
+    label: "GitHub"
+    href: "https://github.com/Wonjoon0129"
+  - id: "linkedin"
+    label: "Linkedin"
+    href: "#_"
+  - id: "email"
+    label: "Email"
+    href: "mailto:"
